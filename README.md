@@ -1,2 +1,2 @@
 # XO (Tic Tac Toe) game
-writen in swift for Cocoa
+written in swift for Cocoa
